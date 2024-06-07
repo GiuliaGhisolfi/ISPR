@@ -12,7 +12,7 @@ CWD visually and report you considerations on similarities and differences betwe
 [DATASET](https://www.kaggle.com/datasets/imsparsh/single-chestmounted-accelerometer)
 
 
-## Midterm 2: 
+## Midterm 2: Hidden Markov Model (Assignment 1)
 
 Fit an Hidden Markov Model to the data in DSET1: it is sufficient to focus on a single column of the dataset of your choice 
 (i.e. choose one of the sensors available and focus on analysis that single sensor). 
@@ -29,7 +29,7 @@ Discuss the results.
 [DSET1 (Image processing)](www.kaggle.com/datasets/ztaihong/weizmann-horse-database/data)
 
 
-## Midterm 3: 
+## Midterm 3: Denoising and Contractive Autoencoder (Assignment 1)
 
 Train 1 denoising and 1 contractive autoencoder on the MNIST dataset.
 It is up to you to decide how many layers and neurons in each layer and how many layers you want in the deep autoencoder.
